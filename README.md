@@ -19,6 +19,8 @@
   ## Usage
 
   Add transaction info for the money you want to track.
+  
+  https://github.com/Sean-Sanneman/budget-tracker/blob/master/public/budget-tracker_1.jpg
 
   ## Credits
 
